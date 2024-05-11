@@ -1,0 +1,12 @@
+# Ignorar archivos y directorios generados por Astro JS
+public/
+.cache/
+dist/
+
+# Ignorar archivos y directorios de dependencias
+node_modules/
+
+# Ignorar archivos y directorios específicos
+.git/
+.vscode/
+.DS_Store
